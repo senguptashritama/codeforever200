@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning **MLops, cloud deployment, Hadoop**
 
 - 📫 How to reach me **senguptashritama@gmail.com**
--
-- <iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/VePtB3roynxfLYicuV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MeeshoTech-code-pull-github-VePtB3roynxfLYicuV"></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
