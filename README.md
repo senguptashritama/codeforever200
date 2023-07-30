@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **senguptashritama@gmail.com**
 
-import ghAutorelease from 'https://cdn.skypack.dev/gh-autorelease';
+![femalecodertocat](https://github.com/codeforever200/codeforever200/assets/57805586/65917b9d-2b16-4cf9-ba79-c75c553c2dc4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
