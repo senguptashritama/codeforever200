@@ -3,7 +3,7 @@
 
 <p>I consider myself a Data Science ToolKit, and here's why ;)</p>
 
-<h2>Data Collection and Cleaning<h2>
+<h2>Data Collection and Cleaning</h2>h2>
 I use these tools and libraries to collect and clean data efficiently:
 <ul>
   <li><strong>Beautiful Soup</strong> : A Python library for web scraping and extracting data from HTML and XML documents.</li>
