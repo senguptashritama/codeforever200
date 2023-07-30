@@ -5,10 +5,7 @@
 
 - 🌱 I’m currently learning **MLops, cloud deployment, Hadoop**
 
-- 📫 How to reach me **senguptashritama@gmail.com**
-- 
-![OIP](https://github.com/codeforever200/codeforever200/assets/57805586/ee39318a-cadd-4db0-9819-9f454179603e)
-
+- 📫 How to reach me **senguptashritama@gmail.com**  ![OIP](https://github.com/codeforever200/codeforever200/assets/57805586/ee39318a-cadd-4db0-9819-9f454179603e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
